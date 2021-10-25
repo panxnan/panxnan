@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @panxnan
+- 👋 Hi, I’m @panxnan, master student at ANU
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning ML and DL and seeking jobs in Data area
 - 💞️ I’m looking to collaborate on Data relatived open source project
